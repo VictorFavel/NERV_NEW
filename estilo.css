@@ -1,0 +1,345 @@
+body{
+    font-family: Arial, sans-serif;
+        margin: 20px;
+        background-image: url('img/iamgenfundo.png');
+        background-attachment: fixed;
+        background-size: 110%;
+        background-repeat: no-repeat;
+        backdrop-filter:brightness(30%);
+}
+
+.h1-home{
+    background-color:rgba(145, 203, 44, 0); 
+}
+
+.nome-shinji{
+    font-size: 40px ;
+    padding-left: 20px;
+}
+
+.nome-asuka{
+    font-size: 40px ;
+    padding-left: 20px;
+}
+
+.nome-rei{
+    font-size: 40px ;
+    padding-left: 20px;
+}
+
+.nome-kowaru{
+    font-size: 40px ;
+    padding-left: 20px;
+}
+
+.nome-mari{
+    font-size: 40px ;
+    padding-left: 20px;   
+}
+
+.nome-toji{
+    font-size: 40px ;
+    padding-left: 20px;
+}
+
+.text-nerv{
+    font-size: 24px;
+padding-left: 20px;
+}
+
+
+.esquerda{
+    float: left;
+    width: 500px;
+    height: 388px;
+    padding-left: 0px;
+}
+.esquerda2{
+    float: left;
+    width: 550px;
+    height: 400px;
+    padding-left: 20px;
+}
+
+.borda{
+   font-size: 23px;
+
+
+}
+h1{
+    background-color: black;
+    font-size: 100px;
+}
+
+.inferior-esquerdo{
+    float: left;
+    width: 400px;
+    height: 50ch;
+    padding-left: 20px;
+            
+            
+}
+button{
+    background-color: black;
+    
+}
+
+.pilotos{
+    background-color:rgba(145, 203, 44, 0);
+}
+
+.shinji-ikari{
+font-size: 24px;
+padding-left: 20px;
+}
+.shinji-img{
+    float: left;
+    width: 300px;
+    height: 380px;
+    padding-left: 20px;
+}
+.asuka-img{
+    float: left;
+    width: 300px;
+    height: 155px;
+    padding-left: 20px;
+}
+.asuka{
+    font-size: 24px;
+    padding-left: 20px;
+}
+
+.rei-img{
+    float: left;
+    width: 300px;
+    height: 210px;
+    padding-left: 20px;
+}
+.rei-text{
+    font-size: 24px;
+    padding-left: 20px;
+}
+.kowaru-img{
+    float: left;
+    width: 300px;
+    height: 200px;
+    padding-left: 20px;
+}
+
+.kowaru-text{
+    font-size: 24px;
+padding-left: 20px;
+}
+
+.mari-img{
+    float: left;
+    width: 300px;
+    height: 175px;
+    padding-left: 20px;
+}
+
+.mari-text{
+    font-size: 24px;
+padding-left: 20px;
+}
+
+.seele-text{
+    font-size: 24px;
+    padding-left: 20px;
+}
+
+.toji-img{
+    float: left;
+    width: 296px;
+    height: 211px;
+    padding-left: 20px;
+}
+
+.toji-text{
+    font-size: 24px;
+    padding-left: 20px;
+    
+}
+
+.nome-toji{
+    background-color:rgba(145, 203, 44, 0);
+}
+
+.Eva{
+    float: left;
+    width: 30%;
+    height: 400px;
+    padding-left: 20px;
+}
+
+
+.eva01-text{
+    font-size: 24px;
+    padding-left: 20px;
+}
+
+.eva-text{
+    font-size: 60px;
+    padding-left: 20px;
+    background-color:rgba(145, 203, 44, 0);
+}
+
+.eva02{
+    float: right;
+    width: 30%;
+    height: 400px;
+    padding-right: 20px;
+}
+
+.eva02-text{
+    font-size: 24px;
+    padding-left: 20px;
+}
+
+.nome-eva02{
+    float: none;
+    background-color:rgba(145, 203, 44, 0);
+}
+
+.eva00-img{
+    float: left;
+    width: 20%;
+    height: 380px;
+    padding-right: 20px;
+}
+
+.eva00-h1{
+    background-color:rgba(145, 203, 44, 0);
+}
+
+
+.eva00-text{
+    font-size: 24px;
+    padding-left: 20px;
+}
+
+.unidades-eva{
+    font-size: 24px;
+    padding-left: 20px;
+}
+
+.banner-evas{
+    width: 80%;
+    height: 380px;
+    padding-right: 20px;   
+}
+
+.eva03-h1{
+    background-color:rgba(145, 203, 44, 0);
+}
+
+.eva03-img{
+    float: left;
+    width: 30%;
+    height: 430px;
+    padding-right: 20px;
+}
+
+.eva03-text{
+    font-size: 24px;
+    padding-left: 20px;
+}
+
+.eva05-img{
+    float: right;
+    width: 30%;
+    height: 430px;
+    padding-right: 20px;   
+}
+
+.eva05-h1{
+    background-color:rgba(145, 203, 44, 0);
+    
+    text-align: right;
+}
+
+.eva05-text{
+    font-size: 24px;
+    padding-left: 20px;
+}
+
+.eva08-h1{
+    background-color:rgba(145, 203, 44, 0);
+}
+
+.eva08-img{
+    float: left;
+    width: 30%;
+    height: 380px;
+    padding-right: 20px;   
+}
+
+.eva08-text{
+    font-size: 24px;
+    padding-left: 20px;
+}
+
+.botão{
+    border: 2px solid #3498db;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: red;
+    color: red;
+    cursor: pointer;
+    transition: backgound-color 0.3s, color 0.3s;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.criaçao-evas{
+    background-color:rgba(145, 203, 44, 0);
+    text-align: center;
+}
+
+.criaçao-img{
+    float: left;
+    width: 30%;
+    height: 380px;
+    padding-left: 185px;   
+}
+
+.adao-img{
+    float: right;
+    width: 30%;
+    height: 400px;
+    padding-right: 110px;   
+}
+
+.criaçao-text{
+    font-size: 24px;
+    padding-left: 20px;
+    text-align: center;
+    background-size: 100px;
+    text-justify: auto;
+}
+
+
+.lilith-h1{
+    background-color:rgba(145, 203, 44, 0);
+    text-align: left;
+    padding-left: 100px;
+    display: inline-block;
+    margin: 0 200px;
+}
+
+.unidades-evangelion02{
+    background-color:rgba(145, 203, 44, 0);
+}
+
+.unidades-evangelion{
+    background-color:rgba(145, 203, 44, 0);
+}
+
+.gif-eva{
+    float: right;
+    width: 80%;
+    height: 400px;
+    padding-right: 115px;   
+}
